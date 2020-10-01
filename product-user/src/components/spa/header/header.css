@@ -1,0 +1,28 @@
+/* a:link, a:visited {
+    background-color: red;
+    color: white;
+    text-align: center;
+    margin: 5px;
+    float: right;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-decoration: none;
+  }
+  .size{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+  }
+  @media (max-width: 768px) {
+    .float-right-sm {
+      float: right;
+    }
+  }
+  @media (max-width: 768px) {
+    .float-left-sm {
+      float: left;
+    }
+  } */
+  

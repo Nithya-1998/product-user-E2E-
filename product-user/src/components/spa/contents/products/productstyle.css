@@ -1,0 +1,22 @@
+.instock,.productdescription,.category,.title,.cost,.imgUrl,.quantity,.outOfstock,.type,.color,.size,.manufacturer,.material,.supplier,.warranty{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+td{
+  width:70px;
+  height:30px;
+  text-align: center;
+}
+th{
+  width:60px;
+  height:30px;
+  text-align: center;
+}
+#search{
+  height: 50px;
+}

@@ -1,0 +1,77 @@
+{
+    "allProducts": [
+       {
+        "id":1,
+        "title":"Shoes",
+        "material":"Eva",
+        "color":"Blue",
+        "category":"Sports Shoe",
+        "size":8,
+        "type":"Lace-Ups",
+        "inStock":40,
+        "outOfstock":60,
+        "quantity":100,
+        "cost": 3999.00,
+        "brand":"Adidas",
+        "gender":"M",
+        "warranty":3,
+        "imageurl":"https://content.adidas.co.in/static/Product-EF0584/Men_CORE_SHOES_LOW_EF0584_1.jpg.plp",
+        "description":"Lightweight feel"
+       },
+       {
+        "id":2,
+        "title":"Shoes",
+        "material":"Synthetic upper",
+        "color":"Black",
+        "category":"Sports Shoe",
+        "size":9,
+        "type":"Lace-Ups",
+        "inStock":70,
+        "outOfstock":30,
+        "quantity":100,
+        "cost": 2999.00,
+        "brand":"Nike",
+        "gender":"F",
+        "warranty":4,
+        "imageurl":"https://assets.ajio.com/medias/sys_master/root/h47/h5f/15155050610718/-78Wx98H-460479210-white-OUTFIT.jpg",
+        "description":"Comfortable feel"
+       },
+       {
+        "id":3,
+        "title":"Kids Footwear",
+        "material":"Synthetic",
+        "color":"Black",
+        "category":"Crocs",
+        "size":4,
+        "type":"Lace-Ups",
+        "inStock":90,
+        "outOfstock":10,
+        "quantity":100,
+        "cost": 699.00,
+        "brand":"Nike",
+        "gender":"M-Kids",
+        "warranty":3,
+        "imageurl":"https://assets.ajio.com/medias/sys_master/root/he7/h4f/11487341051934/-78Wx98H-460189088-black-MODEL4.jpg",
+        "description":"Slip-on styling"
+       },
+       {
+        "id":4,
+        "title":"Asian Shoes",
+        "material":"Leather",
+        "color":"Black",
+        "category":"Formal Shoe",
+        "size":9,
+        "type":"Lace-Ups",
+        "inStock":50,
+        "outOfstock":50,
+        "quantity":100,
+        "cost": 2799.00,
+        "brand":"Bata",
+        "gender":"M",
+        "warranty":3,
+        "imageurl":"https://images-eu.ssl-images-amazon.com/images/I/71DJKZ1JneL._AC_UL320_SR320,320_.jpg",
+        "description":"Formal look"
+       }
+
+    ]
+}
